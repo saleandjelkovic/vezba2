@@ -5,7 +5,8 @@
 	background-color:skyblue; 
 }
 .first_heading{
-	text-align:right;
+	text-align:center;
+	padding:40px;
 }
 .right_div{
 	background-color:skyblue;
@@ -15,5 +16,12 @@
 	background-color:skyblue;
 }
 .second_row_div{
+	margin-top:30px;
+	border: solid 1px blue;
 	padding:20px; 
+	background-color:#e8f0ff;
+}
+.tirth_div_row{
+	margin-top:50px;
+	margin-bottom:50px;
 }
