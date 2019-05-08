@@ -1,0 +1,19 @@
+/*body{
+	background-color:yellow !important;
+}*/
+.div_custom {
+	background-color:skyblue; 
+}
+.first_heading{
+	text-align:right;
+}
+.right_div{
+	background-color:skyblue;
+}
+.div_heading{
+	padding:20px; 
+	background-color:skyblue;
+}
+.second_row_div{
+	padding:20px; 
+}
